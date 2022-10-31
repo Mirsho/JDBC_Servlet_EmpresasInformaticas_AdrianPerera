@@ -1,0 +1,16 @@
+es\cifpcm\ejer2_pererahernandezadrian\buscador\web\DetallesFacturaServlet.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\FacturasTiendaDaoImpl.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\DaoFactory.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\DaoConfig.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\TiendaDao.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\FacturasTiendaDao.class
+es\cifpcm\ejer2_pererahernandezadrian\buscador\web\BuscadorIdTiendaServlet.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\ListaTiendasDaoImpl.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\FacturaComponentesDao.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\ListaTiendasDao.class
+es\cifpcm\ejer2_pererahernandezadrian\model\FacturaComponentes.class
+es\cifpcm\ejer2_pererahernandezadrian\controller\ListarTiendasServlet.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\FacturaComponentesDaoImpl.class
+es\cifpcm\ejer2_pererahernandezadrian\model\Factura.class
+es\cifpcm\ejer2_pererahernandezadrian\model\Tienda.class
+es\cifpcm\ejer2_pererahernandezadrian\dao\TiendaDaoImpl.class

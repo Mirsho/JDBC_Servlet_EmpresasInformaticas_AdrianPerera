@@ -1,0 +1,16 @@
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\model\Factura.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\controller\ListarTiendasServlet.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\ListaTiendasDaoImpl.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\TiendaDao.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\FacturaComponentesDao.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\FacturaComponentesDaoImpl.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\FacturasTiendaDao.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\buscador\web\DetallesFacturaServlet.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\buscador\web\BuscadorIdTiendaServlet.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\DaoFactory.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\model\FacturaComponentes.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\model\Tienda.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\DaoConfig.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\FacturasTiendaDaoImpl.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\ListaTiendasDao.java
+D:\2DAWA2\DSW\NetBeansProjects\JDBC_Servlet_EmpresasInformaticas_AdrianPerera\src\main\java\es\cifpcm\ejer2_pererahernandezadrian\dao\TiendaDaoImpl.java
